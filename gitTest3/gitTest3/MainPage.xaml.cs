@@ -11,7 +11,7 @@ namespace gitTest3
 	{
 		public MainPage()
 		{
-			InitializeComponent();
+			InitializeComponent(); int i = 10; i++;
 		}
 	}
 }
