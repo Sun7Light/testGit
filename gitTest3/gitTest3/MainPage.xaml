@@ -6,7 +6,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-    	<Label Text="Добро пожаловать" 
+    	<Label Text="hello" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
         <Label Text="someText">
